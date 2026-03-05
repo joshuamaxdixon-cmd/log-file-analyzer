@@ -1,0 +1,5 @@
+Server started successfully
+User logged in
+ERROR: connection timeout
+Database request completed
+ERROR: invalid login attempt
